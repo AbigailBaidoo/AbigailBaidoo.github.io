@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Abigail Baidoo/ My Site"
+locale                   : "en-GB"
+title                    : "Abigail Baidoo"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Abigail Baidoo"
+description              : &description "Personal website of Abigail Baidoo - Mathematician and Data Scientist"
 url                      : https://AbigailBaidoo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AbigailBaidoo/AbigailBaidoo.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Abigail Baidoo"
   avatar           : "abi_p1.jpg"
-  bio              : #"Your biography for the left-hand sidebar"
-  location         : "Accra"
+  bio              : "PhD Candidate in Data Science | Assistant Lecturer | Mathematician"
+  location         : "Accra, Ghana"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "abigail@aims.edu.gh"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
