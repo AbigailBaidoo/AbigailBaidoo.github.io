@@ -108,9 +108,9 @@ Brandenburg University of Technology, Cottbus, Germany
 
 ## 📫 Contact
 
-- **Email:** abigail@aims.edu.gh / abaidoo@quantumleapafrica.org
-- **Phone:** +233 54 164 3521 / +233 50 934 1341
-- **Location:** AIMS Ghana, Santoe, East Legon Hills, Accra
+- **Email:** abigail@aims.edu.gh / abigail.baidoo@ttu.edu.gh
+- **Phone:** +233 54 164 3521 
+- **Location:** AIMS Ghana, 1 Shopper's Street, Spintex - Manet, Accra
 
 ---
 
