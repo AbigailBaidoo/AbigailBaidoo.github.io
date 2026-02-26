@@ -17,6 +17,10 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Research"
+    url: /research/ 
     
   #- title: "Guide"
    # url: /markdown/
+https://github.com/AbigailBaidoo/AbigailBaidoo.github.io/edit/master/_data/navigation.yml
