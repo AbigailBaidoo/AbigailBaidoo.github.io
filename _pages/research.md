@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## 📊 Research Interests
+## 📊 Research Interest
 
 - Mathematical Modelling in Microfinance
 - Probability of Default Prediction
